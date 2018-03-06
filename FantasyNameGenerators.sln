@@ -10,16 +10,32 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyNameGeneratorsTests", "FantasyNameGeneratorsTests\FantasyNameGeneratorsTests.csproj", "{85A5062D-68FB-45B0-9A0C-359D952C8033}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Debug|x86.Build.0 = Debug|Any CPU
 		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Release|x86.ActiveCfg = Release|Any CPU
+		{5B261EDF-FD7F-41D4-AEB0-B23F0AFB91E3}.Release|x86.Build.0 = Release|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Debug|x86.Build.0 = Debug|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Release|x86.ActiveCfg = Release|Any CPU
+		{85A5062D-68FB-45B0-9A0C-359D952C8033}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
